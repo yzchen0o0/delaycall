@@ -22,7 +22,7 @@
             'func': null,               // 函数名称
             'times': 1000,            // 延迟时间，单位：毫秒
             'beforeCallClear': true,  // 未执行func前，绑定事件被触发，是否清理之前定义的定时器
-            'event': 'blur',         // 触发事件，默认是按键后触发，依据jquery/zepto语法
+            'event': 'blur',         // 触发事件，默认是离开焦点时触发，依据jquery/zepto语法，如 keydown ...
             'justNormalKeyCode': true // event -> keydown 时，是否只支持普通按键：英文、数字
         }, options);
 
