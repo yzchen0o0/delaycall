@@ -1,7 +1,6 @@
 # delaycall.js
-## By yzChen
 
-delaycall是一个 jQuery / Zepto 插件，用于在用户完成某项操作后，延迟指定秒数后自动调动指定函数。如用户输入完内容后，延迟1秒，自动提交表单。
+delaycall 是一个 jQuery / Zepto 插件，用于在用户完成某项操作后，延迟指定秒数后自动调动指定函数。如用户输入完内容后，延迟1秒，自动提交表单。
 
 ### Demo
 点击查看[在线演示地址](https://yzchen0o0.github.io/yzchen0o0/ "delaycall Demo")
@@ -33,5 +32,5 @@ $(function() {
 文本框1：<input id="s1"/>&nbsp;&nbsp;文本框2：<input id="s2"/>
 ```
 
-### 私人博客
+### My Blog
 欢迎浏览本人私人博客：[blog.chenyuanzhen.com](http://blog.chenyuanzhen.com "倚楼听风雨")
