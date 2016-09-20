@@ -5,6 +5,9 @@ delaycall 是一个 jQuery / Zepto 插件，用于在用户完成某项操作后
 ### GitHub Repository
 [https://github.com/yzchen0o0/delaycall](https://github.com/yzchen0o0/delaycall "delaycall.js")
 
+### git@OSC Repository
+[http://git.oschina.net/cyzshenzhen/delaycall](http://git.oschina.net/cyzshenzhen/delaycall "delaycall.js")
+
 ### Demo
 点击查看[在线演示地址](https://yzchen0o0.github.io/yzchen0o0/ "delaycall Demo")
 
