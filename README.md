@@ -35,7 +35,7 @@ $(function() {
 ```
 #### Html
 ``` html
-文本框1：<input id="s1"/>&nbsp;&nbsp;文本框2：<input id="s2"/>
+修改标题：<input id="s1"/>&nbsp;&nbsp;修改内容：<input id="s2"/>
 ```
 
 ### My Blog
