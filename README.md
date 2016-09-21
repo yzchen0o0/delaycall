@@ -20,7 +20,7 @@ delaycall 是一个 jQuery / Zepto 插件，用于在用户完成某项操作后
 #### JavaScript
 ``` javascript
 function foo() {
-    alert('call foo()!');
+    alert('保存成功!');
 }
 
 $(function() {
