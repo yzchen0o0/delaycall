@@ -40,7 +40,7 @@
             // 按键事件，判断是否只支持普通按键
             if('keydown' == settings.event && true === settings.justNormalKeyCode) {
                 var ___ekc = event.keyCode;
-                if(!(___ekc >= 65 || ___ekc <= 90 || ___ekc >= 48 || ___ekc <= 57 || ___ekc >= 96 || ___ekc <= 105)) {
+                if(!((___ekc >= 48 && ___ekc <= 57) || (___ekc >= 65 && ___ekc <= 90) || (___ekc >= 96 && ___ekc <= 105))) {
                     return;
                 }
             }
